@@ -12,7 +12,6 @@ body{
     background-image: url(./images/bg-intro-desktop.png);
     color: #fff;
     font-family: 'Poppins', sans-serif;
-    overflow: ;
 }
 
 .container{
@@ -99,10 +98,6 @@ button{
 
 button:focus {
     outline: none;
-}
-
-button:active{
-    
 }
 
 em{
